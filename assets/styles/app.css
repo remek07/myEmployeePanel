@@ -1,0 +1,29 @@
+.contentMenu{
+    margin-top: 4rem;
+    margin-left: 15.856rem;
+    position: relative;
+}
+/* Top menu */
+.navTop{
+    height: 4rem;
+    z-index: 1000;
+    background-color: #fff;
+}
+/* Left menu */
+.navbarLeft{
+    width: 15.856rem;
+    padding-top: 4rem;
+}
+.navbarLeft ul{
+    padding: 0;
+    margin: 0;
+    height: 100px;
+}
+/* home */
+.contentHome{
+    height: 800px;
+}
+.contentHome .box{
+    background-color: red;;
+    min-width: 47%;
+}

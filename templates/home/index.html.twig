@@ -1,0 +1,23 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello HomeController!{% endblock %}
+
+{% block body %}
+
+    <h1 class="ps-2">Hello {{ userName }}!</h1>
+    <div class="contentHome container-fluid d-flex gap-5 hv-100 w-100 flex-wrap pt-5 justify-space-between">
+        <div class="box p-4 rounded">
+            <h3>Nadgodzinyasdf</h3>
+            <a href="{{ path('app_overtime') }}">Zobacz</a>
+        </div>
+        <div class="box p-4 rounded">
+            <h3>Pomoce naukowe</h3>
+        </div>
+        <div class="box p-4 rounded">
+            <h3>Nadgodziny</h3>            
+        </div>
+        <div class="box p-4 rounded">
+            <h3>Nadgodziny</h3>
+        </div>
+    </div>
+{% endblock %}

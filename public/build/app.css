@@ -1,0 +1,34 @@
+/*!**************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[1].use[1]!./assets/styles/app.css ***!
+  \**************************************************************************************************************/
+.contentMenu{
+    margin-top: 4rem;
+    margin-left: 15.856rem;
+    position: relative;
+}
+/* Top menu */
+.navTop{
+    height: 4rem;
+    z-index: 1000;
+    background-color: #fff;
+}
+/* Left menu */
+.navbarLeft{
+    width: 15.856rem;
+    padding-top: 4rem;
+}
+.navbarLeft ul{
+    padding: 0;
+    margin: 0;
+    height: 100px;
+}
+/* home */
+.contentHome{
+    height: 800px;
+}
+.contentHome .box{
+    background-color: red;;
+    min-width: 47%;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmNzcyIsIm1hcHBpbmdzIjoiOzs7QUFBQTtJQUNJLGdCQUFnQjtJQUNoQixzQkFBc0I7SUFDdEIsa0JBQWtCO0FBQ3RCO0FBQ0EsYUFBYTtBQUNiO0lBQ0ksWUFBWTtJQUNaLGFBQWE7SUFDYixzQkFBc0I7QUFDMUI7QUFDQSxjQUFjO0FBQ2Q7SUFDSSxnQkFBZ0I7SUFDaEIsaUJBQWlCO0FBQ3JCO0FBQ0E7SUFDSSxVQUFVO0lBQ1YsU0FBUztJQUNULGFBQWE7QUFDakI7QUFDQSxTQUFTO0FBQ1Q7SUFDSSxhQUFhO0FBQ2pCO0FBQ0E7SUFDSSxxQkFBcUI7SUFDckIsY0FBYztBQUNsQixDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vYXNzZXRzL3N0eWxlcy9hcHAuY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIi5jb250ZW50TWVudXtcbiAgICBtYXJnaW4tdG9wOiA0cmVtO1xuICAgIG1hcmdpbi1sZWZ0OiAxNS44NTZyZW07XG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xufVxuLyogVG9wIG1lbnUgKi9cbi5uYXZUb3B7XG4gICAgaGVpZ2h0OiA0cmVtO1xuICAgIHotaW5kZXg6IDEwMDA7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZjtcbn1cbi8qIExlZnQgbWVudSAqL1xuLm5hdmJhckxlZnR7XG4gICAgd2lkdGg6IDE1Ljg1NnJlbTtcbiAgICBwYWRkaW5nLXRvcDogNHJlbTtcbn1cbi5uYXZiYXJMZWZ0IHVse1xuICAgIHBhZGRpbmc6IDA7XG4gICAgbWFyZ2luOiAwO1xuICAgIGhlaWdodDogMTAwcHg7XG59XG4vKiBob21lICovXG4uY29udGVudEhvbWV7XG4gICAgaGVpZ2h0OiA4MDBweDtcbn1cbi5jb250ZW50SG9tZSAuYm94e1xuICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDs7XG4gICAgbWluLXdpZHRoOiA0NyU7XG59Il0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/
